@@ -1,0 +1,54 @@
+.card-course{
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border: 1px solid #e4e3e3;
+    background-color:#fcfbfb;
+}
+
+.title-course{
+    color: #333e3c;
+    font-size: 1.2rem;
+}
+
+.btn-featured{
+    width: 50%;
+    background-color: #fcfbfb;
+    border: 1px solid #1fc185;
+    color: #1fc185;
+    font-weight: bold;
+    margin-top: 2%;
+}
+
+.description-course{
+    font-size: 1.2rem;
+    color:#c0cbcc;
+    margin-top: 2%;
+}
+
+.info-course{
+    color:#626d77;
+    margin-top: 5%;
+    font-weight: 200;
+}
+
+.ctn-infoCourse{
+    padding-right: 0;
+}
+
+.price-course{
+    color:#626d77;
+    font-size: 1.4rem;
+}
+
+.btn-share{
+    background-color: #fcfbfb;
+    border: 2px solid #d5d3d3;
+    width: 80%;
+    height: 35%;
+    border-radius: 8%
+}
+
+.fa-share:before{
+    color: #626d77;
+}

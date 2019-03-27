@@ -1,0 +1,24 @@
+.ctn-headerNav{
+    margin-left: 30%;
+}
+
+.btn-header{
+    margin-left: 7rem;
+    width: 40%;
+}
+.btn-header2{
+    margin-left: 2rem;
+    width: 80%;
+    background-color: #1fc185;
+}
+
+.text-select{
+    color: #1fc185;
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    font-size: 1.2rem;
+}

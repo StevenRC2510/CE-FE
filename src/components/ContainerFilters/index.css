@@ -1,0 +1,24 @@
+.ctn-title-results{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-result{
+    color: #626d77;
+    font-weight: 500;
+    font-size: 1.2rem;
+    margin-left: 2%
+}
+
+.fa-align-center:before{
+    color: #b7b9b8;
+}
+
+.ctn-filters-results{
+    background-color: #fcfbfb;
+    margin-top: 15%;
+    box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.1);
+}

@@ -1,0 +1,33 @@
+.container-allCourses{
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-resultpages{
+    color: #333e3c;
+}
+
+.border-font{
+    font-weight: 500;
+}
+
+.ctn-sorted{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-top: 3%;
+    margin-right: 0.5%;
+}
+
+.form-group {
+    margin-bottom: 0;
+}
+label {
+    margin-bottom: 0;
+    margin-right: 3%;
+    color: #333e3c;
+    font-weight: 300;
+}

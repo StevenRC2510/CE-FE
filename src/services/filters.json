@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "title": "Course Type",
+        "filters": [
+            { "name": "Self paced", "value":"Self paced" },
+            { "name":  "Live" , "value":  "Live"  }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Delivery Type",
+        "filters": [
+            { "name": "Any delivery type", "value": "Any delivery type" },
+            { "name": "Computer-Based Training", "value": "Computer-Based Training" },
+            { "name": "Correspondence", "value": "Correspondence" },
+            { "name":  "Mailed Material", "value": "Mailed Material" }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Subject Area",
+        "filters": [
+            { "name": "Any subject area", "value": "Any subject area"  },
+            { "name": "HIV/AIDS", "value": "HIV/AIDS" },
+            { "name": "End-of-Life Care and Palliative Health Care", "value": "End-of-Life Care and Palliative Health Care" },
+            { "name": "Domestic Violence", "value": "Domestic Violence" }
+        ]
+    }
+]
